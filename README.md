@@ -1,7 +1,7 @@
 # Energomera CE102M adapter
 Wirenboard (MQTT) adapter for Energomera CE102M RS-145A power meter
 
-Скрипт, считывающий данные с электросчетчика Энергомера CE102М по RS-484 и передающий их в MQTT каналы контроллера Wirenboard
+Скрипт, считывающий данные с электросчетчика Энергомера CE102М по RS-485 и передающий их в MQTT каналы контроллера Wirenboard
 
 Подключаем выводы A, B и GND WirenBoard к контактам 9, 10 и 11 счетчика.
 
