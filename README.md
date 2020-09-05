@@ -7,7 +7,7 @@ Wirenboard (MQTT) adapter for Energomera CE102M RS-145A power meter
 
 Систему команд смотрим в [инструкции к счетчику](http://www.energomera.ru/documentations/ce102m_full_re.pdf)
 
-Протокол обмена данными: [ГОСТ Р МЭК 61107-2001 107](http://standartgost.ru/g/%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_%D0%9C%D0%AD%D0%9A_61107-2001)
+Протокол обмена данными: [ГОСТ Р МЭК 61107-2001](http://standartgost.ru/g/%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_%D0%9C%D0%AD%D0%9A_61107-2001)
 
 #### Настройка автозапуска
 Создать или отредактировать `/etc/rc.local`
